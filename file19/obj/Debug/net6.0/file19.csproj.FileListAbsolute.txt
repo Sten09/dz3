@@ -1,0 +1,15 @@
+/home/user/Документы/обучение/examples/dz3/file19/bin/Debug/net6.0/file19
+/home/user/Документы/обучение/examples/dz3/file19/bin/Debug/net6.0/file19.deps.json
+/home/user/Документы/обучение/examples/dz3/file19/bin/Debug/net6.0/file19.runtimeconfig.json
+/home/user/Документы/обучение/examples/dz3/file19/bin/Debug/net6.0/file19.dll
+/home/user/Документы/обучение/examples/dz3/file19/bin/Debug/net6.0/file19.pdb
+/home/user/Документы/обучение/examples/dz3/file19/obj/Debug/net6.0/file19.csproj.AssemblyReference.cache
+/home/user/Документы/обучение/examples/dz3/file19/obj/Debug/net6.0/file19.GeneratedMSBuildEditorConfig.editorconfig
+/home/user/Документы/обучение/examples/dz3/file19/obj/Debug/net6.0/file19.AssemblyInfoInputs.cache
+/home/user/Документы/обучение/examples/dz3/file19/obj/Debug/net6.0/file19.AssemblyInfo.cs
+/home/user/Документы/обучение/examples/dz3/file19/obj/Debug/net6.0/file19.csproj.CoreCompileInputs.cache
+/home/user/Документы/обучение/examples/dz3/file19/obj/Debug/net6.0/file19.dll
+/home/user/Документы/обучение/examples/dz3/file19/obj/Debug/net6.0/refint/file19.dll
+/home/user/Документы/обучение/examples/dz3/file19/obj/Debug/net6.0/file19.pdb
+/home/user/Документы/обучение/examples/dz3/file19/obj/Debug/net6.0/file19.genruntimeconfig.cache
+/home/user/Документы/обучение/examples/dz3/file19/obj/Debug/net6.0/ref/file19.dll
